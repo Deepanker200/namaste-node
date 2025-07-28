@@ -1,1 +1,13 @@
-console.log("Very Important JS Code");
+function x(){
+    const a=10;
+
+    function b(){
+        console.log(a);
+    }
+    b()
+}
+
+x();
+// console.log(a);
+
+
