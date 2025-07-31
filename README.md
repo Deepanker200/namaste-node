@@ -12,3 +12,8 @@
 O, network I/O, and other asynchronous tasks
 - Libuv is designed to be highly efficient and scalable, making it an ideal choice for building high
 performance server-side applications
+
+
+# setTimeout()-> when it is 0 it will print after the synchronous code, as it goes to Libuv  
+
+# astexplorer.net- website to see AST(Abstract Syntax Tree) 
