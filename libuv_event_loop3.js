@@ -6,6 +6,7 @@ const fs = require("fs");
 setImmediate(() => console.log("setImmediate"), 0);
 
 setTimeout(() => console.log("Timer expired"), 0);
+// setTimeout(() => console.log("Timer expired"), 100);
 
 Promise.resolve("Promise").then(console.log);       //Promise value is passed in console.log
 
