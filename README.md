@@ -16,4 +16,10 @@ performance server-side applications
 
 # setTimeout()-> when it is 0 it will print after the synchronous code, as it goes to Libuv  
 
-# astexplorer.net- website to see AST(Abstract Syntax Tree) 
+# astexplorer.net- website to see AST(Abstract Syntax Tree)
+
+# OS
+- epoll(Linux)
+- kqueue(macos)
+- IOCP(Windows)
+[Scalable I/O event Notification Mechanism]
