@@ -24,4 +24,4 @@ performance server-side applications
 - IOCP(Windows)
 [Scalable I/O event Notification Mechanism]
 
-# Note: I'm using Micrsoervices in this project :)
+# Note: I'm using Micrsoervices in this project
