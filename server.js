@@ -1,4 +1,4 @@
-// const http=require("node:http");
+// const http=require("node:http");     //another way
 const http=require("http");
 
 const server=http.createServer(function(req,res){
