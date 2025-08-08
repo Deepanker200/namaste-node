@@ -25,3 +25,12 @@ performance server-side applications
 [Scalable I/O event Notification Mechanism]
 
 # Note: I'm using Micrsoervices in this project
+
+# Project: DevTinder
+- Create an account
+- Login
+- Update your profile
+- Feed page- explore
+- Send connection request
+- See our matches
+- See the request we've sent friend request
