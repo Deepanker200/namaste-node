@@ -34,3 +34,8 @@ performance server-side applications
 - Send connection request
 - See our matches
 - See the request we've sent friend request
+
+# Tech Stack
+- Frontend- React
+- Backend- MongoDB, NodeJS
+
