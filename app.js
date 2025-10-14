@@ -31,13 +31,15 @@ console.log(data);
 
 // console.log(x);
 
-// console.log(global);
-// console.log("-------------------------------");
-// console.log(this);
-// console.log("-------------------------------");
-// console.log(globalThis);
-// console.log("-------------------------------");
-// console.log(globalThis===global);
+console.log("Globals");
+
+console.log(global);
+console.log("-------------------------------");
+console.log(this);
+console.log("-------------------------------");
+console.log(globalThis);
+console.log("-------------------------------");
+console.log(globalThis===global);
 
 
 //We can use the same variables using modules
