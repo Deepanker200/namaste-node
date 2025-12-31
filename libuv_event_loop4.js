@@ -15,7 +15,7 @@ fs.readFile("./file.txt", "utf8", () => {
 
 process.nextTick(() => {
     process.nextTick(() => console.log("inner nextTick"));
-    // setTimeout(() => console.log("setTimeOut of nextTick"),0);     //It wil print after setImmediate because it sends it to other Callback queue which will run in next turn
+    // setTimeout(() => console.log("setTimeOut of nextTick"),0);     It wil print after Timer Expired
 
     console.log("nextTick");
 })
